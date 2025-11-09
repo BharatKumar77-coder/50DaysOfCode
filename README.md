@@ -1,4 +1,4 @@
-# 30 Days of MERN Stack Learning
+# 50 Days of MERN Stack Learning
 
 This repository tracks my daily progress while learning full-stack development using the MERN stack.
 
