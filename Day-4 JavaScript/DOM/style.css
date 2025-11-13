@@ -16,10 +16,16 @@ body {
 
 .box{
     width: 100px;
-    height: 100px;
+    height: 250px;
     background-color: aqua;
     text-align: center;
     border: 1px solid black;
     margin: 20px;
     padding-top: 10px;
+}
+
+.class{
+    height: 20px;
+    border: 1px solid red;
+    background-color: yellow;
 }
