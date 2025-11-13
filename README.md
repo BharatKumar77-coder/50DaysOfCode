@@ -15,3 +15,10 @@ This repository tracks my daily progress while learning full-stack development u
 
 ### ✅ Day 3:Flexbox, Grid, Tailwind CSS
 -Create responsive navbar + layout.
+
+### ✅ Day 4: JavaScript Basics
+-Variables and datatypes.
+-if-else conditions, operators, loops.
+
+### ✅ Day 5: JavaScript DOM & Events
+-DOM and Events.
